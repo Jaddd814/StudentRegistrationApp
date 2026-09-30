@@ -48,10 +48,10 @@ NIM | Nama | Program Studi | Jenis Kelamin | Status | Status Makan
 Contoh data:
 
 ```text
-20260001 | Budi Santoso | Teknik Informatika | Laki-laki | Aktif | Sudah Makan
+5025241248 | Al Jad Kaukaudduri Hardianto | Teknik Informatika | Laki-laki | Aktif | Sudah Makan
 ```
 
-![Tambah Data Mahasiswa](screenshots/02-tambah-data.png)
+<img width="1166" height="801" alt="Screenshot 2026-09-30 205802" src="https://github.com/user-attachments/assets/a6a8eaf5-ae53-4786-8e76-007e4ae072b7" />
 
 ---
 
@@ -68,9 +68,7 @@ Validasi yang tersedia:
 - Status makan harus dipilih.
 - NIM tidak boleh sama atau duplikat.
 
-Jika input belum lengkap, aplikasi menampilkan pesan peringatan menggunakan `MessageBox`.
-
-![Validasi Input](screenshots/03-validasi.png)
+<img width="1170" height="801" alt="Screenshot 2026-09-30 205640" src="https://github.com/user-attachments/assets/129f421c-1906-486a-809c-96559e14ab54" />
 
 ---
 
@@ -83,12 +81,12 @@ Pencarian dilakukan secara langsung saat pengguna mengetik kata kunci pada TextB
 Contoh:
 
 ```text
-Kata kunci: Budi
+Kata kunci: Le
 ```
 
-Aplikasi hanya menampilkan data mahasiswa yang namanya mengandung kata `Budi`.
+Aplikasi hanya menampilkan data mahasiswa yang namanya mengandung kata `Le`.
 
-![Pencarian Data Mahasiswa](screenshots/04-pencarian.png)
+<img width="1171" height="803" alt="Screenshot 2026-09-30 205816" src="https://github.com/user-attachments/assets/0b4cd50c-080e-4820-81f2-5646bcc50c28" />
 
 ---
 
