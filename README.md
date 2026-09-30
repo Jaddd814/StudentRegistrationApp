@@ -94,15 +94,7 @@ Aplikasi hanya menampilkan data mahasiswa yang namanya mengandung kata `Le`.
 
 Fitur **Edit** digunakan untuk memperbarui data mahasiswa yang sudah tersimpan.
 
-Langkah penggunaan:
-
-1. Pilih data mahasiswa pada ListBox.
-2. Klik tombol **Edit**.
-3. Data mahasiswa akan muncul kembali pada form input.
-4. Ubah data yang diperlukan.
-5. Klik tombol **Simpan** untuk menyimpan perubahan.
-
-![Edit Data Mahasiswa](screenshots/05-edit-data.png)
+<img width="1168" height="802" alt="Screenshot 2026-09-30 205907" src="https://github.com/user-attachments/assets/0bc2234e-c533-4441-a975-ab4677ff081d" />
 
 ---
 
@@ -113,5 +105,6 @@ Fitur **Hapus** digunakan untuk menghapus data mahasiswa yang dipilih dari ListB
 Sebelum data dihapus, aplikasi menampilkan konfirmasi agar data tidak terhapus secara tidak sengaja.
 
 <img width="1172" height="807" alt="Screenshot 2026-09-30 205828" src="https://github.com/user-attachments/assets/47e6575b-075d-4dd8-a826-2620d1bb89cb" />
+<img width="1171" height="802" alt="Screenshot 2026-09-30 205835" src="https://github.com/user-attachments/assets/ff563dee-76aa-4ed1-9c73-58ebf77a6374" />
 
 ---
