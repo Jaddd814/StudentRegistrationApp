@@ -112,48 +112,6 @@ Fitur **Hapus** digunakan untuk menghapus data mahasiswa yang dipilih dari ListB
 
 Sebelum data dihapus, aplikasi menampilkan konfirmasi agar data tidak terhapus secara tidak sengaja.
 
-Langkah penggunaan:
-
-1. Pilih salah satu data mahasiswa pada ListBox.
-2. Klik tombol **Hapus**.
-3. Pilih **Yes** pada dialog konfirmasi.
-4. Data mahasiswa akan dihapus dari daftar.
-
-![Hapus Data Mahasiswa](screenshots/06-hapus-data.png)
-
----
-
-### 7. Reset Form
-
-Fitur **Reset** digunakan untuk mengosongkan seluruh form input.
-
-Data yang akan dikosongkan:
-
-- NIM
-- Nama mahasiswa
-- Program studi
-- Jenis kelamin
-- Status makan
-- Pilihan data pada ListBox
-
-Status mahasiswa aktif akan dikembalikan ke kondisi tercentang.
-
-![Reset Form](screenshots/07-reset-form.png)
-
----
-
-### 8. Counter Jumlah Mahasiswa
-
-Aplikasi menampilkan jumlah total mahasiswa yang tersimpan pada bagian bawah daftar data.
-
-Counter akan bertambah saat data mahasiswa berhasil ditambahkan dan akan berkurang saat data mahasiswa dihapus.
-
-Contoh:
-
-```text
-Jumlah Mahasiswa: 3
-```
-
-![Counter Jumlah Mahasiswa](screenshots/08-counter-mahasiswa.png)
+<img width="1172" height="807" alt="Screenshot 2026-09-30 205828" src="https://github.com/user-attachments/assets/47e6575b-075d-4dd8-a826-2620d1bb89cb" />
 
 ---
