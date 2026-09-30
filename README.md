@@ -31,17 +31,7 @@ Aplikasi ini digunakan untuk memasukkan, menampilkan, mencari, mengubah, dan men
 
 Halaman utama menyediakan form untuk memasukkan data mahasiswa. Form terdiri dari input NIM, nama mahasiswa, program studi, jenis kelamin, status aktif, dan status makan.
 
-Control yang digunakan dalam aplikasi antara lain:
-
-- `TextBox`
-- `ComboBox`
-- `RadioButton`
-- `CheckBox`
-- `Button`
-- `ListBox`
-- `TextBlock`
-
-![Tampilan Form Registrasi](screenshots/01-tampilan-awal.png)
+![Tampilan Form Registrasi](<img width="1170" height="802" alt="Screenshot 2026-09-30 205602" src="https://github.com/user-attachments/assets/93bdaecf-cd7d-4f4a-938a-3d2fc35239af" />)
 
 ---
 
